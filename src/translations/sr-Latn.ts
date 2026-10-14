@@ -116,7 +116,7 @@ const sr-Latn: Translation = {
     "x": "Kišovito, veoma nestabilno",
     "y": "Olujno, može da se poboljša",
     "z": "Olujno, jaka kiša"
-  }
+  },
   "editor": {
     "global_options": "Globalne opcije",
     "overview_section": "Pregled",
