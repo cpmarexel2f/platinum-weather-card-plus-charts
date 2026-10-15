@@ -1,6 +1,6 @@
 import type { Translation } from './types';
 
-const sr-Latn: Translation = {
+const srLatn: Translation = {
   "sager": {
     "sky_clear": "Nebo je vedro",
     "sky_partly": "Oblaci su razbijeni",
@@ -199,7 +199,7 @@ const sr-Latn: Translation = {
     "entity_extended": "Entitet proširene prognoze",
     "entity_extended_1": "Entitet proširene prognoze 1",
     "use_attribute": "Koristi atribut",
-    "attribute": "Atribut"
+    "attribute": "Atribut",
     "slot_l1": "Slot levo 1",
     "slot_l2": "Slot levo 2",
     "slot_l3": "Slot levo 3",
@@ -341,6 +341,14 @@ const sr-Latn: Translation = {
     "last_quarter": "Poslednja četvrt",
     "waning_crescent": "Opadajući srp"
   },
+  "units": {
+    "km/h": "km/h",
+    "kph": "km/h",
+    "m/s": "m/s",
+    "mm": "mm",
+    "cm": "cm",
+    "in": "in"
+  },
   "windDirections": [
     "S",
     "SSI",
@@ -362,4 +370,4 @@ const sr-Latn: Translation = {
   ]
 };
 
-export default sr-Latn;
+export default srLatn;

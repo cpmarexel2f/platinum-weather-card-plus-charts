@@ -198,8 +198,8 @@ const sr: Translation = {
     "entity_summary_1": "Ентитет сажетка прогнозе 1",
     "entity_extended": "Ентитет проширене прогнозе",
     "entity_extended_1": "Ентитет проширене прогнозе 1",
-    "use_attribute": "Користи атрибут"
-    "attribute": "Atribut"
+    "use_attribute": "Користи атрибут",
+    "attribute": "Atribut",
     "slot_l1": "Слот лево 1",
     "slot_l2": "Слот лево 2",
     "slot_l3": "Слот лево 3",
@@ -340,6 +340,14 @@ const sr: Translation = {
     "waning_gibbous": "Опадајућа избочена",
     "last_quarter": "Последња четврт",
     "waning_crescent": "Опадајући срп"
+  },
+  "units": {
+    "km/h": "км/ч",
+    "kph": "км/ч",
+    "m/s": "м/с",
+    "mm": "мм",
+    "cm": "цм",
+    "in": "ин"
   },
   "windDirections": [
     "С",
